@@ -33,6 +33,8 @@ Aqui estão alguns dos projetos que desenvolvi e que estão disponíveis aqui no
 
    
 [![Estatísticas de Rau no GitHub](https://github-readme-stats.vercel.app/api?username=raaudev&show_icons=true&theme=dark )](https://github.com/anuraghazra/github-readme-stats )
+
+
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=raaudev&layout=compact&theme=dark )](https://github.com/anuraghazra/github-readme-stats )
 
 
