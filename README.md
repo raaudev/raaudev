@@ -29,8 +29,8 @@ Aqui estão alguns dos projetos que desenvolvi e que estão disponíveis aqui no
 2.  **[site-cordel](https://github.com/raaudev/site-cordel)**: Um projeto que explora a estética da literatura de cordel utilizando HTML e CSS.
 3.  **[Decodificador](https://github.com/raaudev/Decodificador)**: Ferramenta para codificar e decodificar textos.
 4.  **[meuslinks](https://github.com/raaudev/meuslinks)**: Agregador de links úteis.
-5.  **[projetogta](https://github.com/raaudev/projetogta)**: Projeto temático inspirado em GTA (adicione uma breve descrição do que ele faz!).
-6.  **[Pedido01](https://github.com/raaudev/Pedido01)**: (Adicione uma breve descrição do que este projeto faz!).
+5.  **[projetogta](https://github.com/raaudev/projetogta)**: Projeto temático inspirado em GTA.
+
    
 
    
@@ -40,6 +40,9 @@ Aqui estão alguns dos projetos que desenvolvi e que estão disponíveis aqui no
 
 
 📫 Como me Encontrar
+
 LinkedIn: https://www.linkedin.com/in/raau-dev/
+
 Portfólio: https://rsdeveloper-one.vercel.app/
+
 Fique à vontade para explorar meus repositórios e entrar em contato!
