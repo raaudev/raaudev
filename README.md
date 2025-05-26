@@ -9,8 +9,6 @@ Sou um **Desenvolvedor Front-End** apaixonado por transformar ideias em interfac
 
 *   🚀 Focado em desenvolvimento Front-End utilizando as tecnologias mais modernas.
 *   💡 Apaixonado por criar interfaces limpas, responsivas e intuitivas.
-*    B R A S I L
-*   Pronomes: Ele/Dele (He/Him)
 
 ## 🛠️ Habilidades e Tecnologias
 
