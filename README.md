@@ -25,6 +25,7 @@ Não se esqueça de adicionar descrições curtas e objetivas para os projetos p
 📊 Estatísticas do GitHub 
 [![Estatísticas de Rau no GitHub](https://github-readme-stats.vercel.app/api?username=raaudev&show_icons=true&theme=dark )](https://github.com/anuraghazra/github-readme-stats )
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=raaudev&layout=compact&theme=dark )](https://github.com/anuraghazra/github-readme-stats )
+
 📫 Como me Encontrar
 LinkedIn: https://www.linkedin.com/in/raau-dev/
 Portfólio: https://rsdeveloper-one.vercel.app/
