@@ -31,8 +31,13 @@ Aqui estão alguns dos projetos que desenvolvi e que estão disponíveis aqui no
 4.  **[meuslinks](https://github.com/raaudev/meuslinks)**: Agregador de links úteis.
 5.  **[projetogta](https://github.com/raaudev/projetogta)**: Projeto temático inspirado em GTA (adicione uma breve descrição do que ele faz!).
 6.  **[Pedido01](https://github.com/raaudev/Pedido01)**: (Adicione uma breve descrição do que este projeto faz!).
+   
+
+   
 [![Estatísticas de Rau no GitHub](https://github-readme-stats.vercel.app/api?username=raaudev&show_icons=true&theme=dark )](https://github.com/anuraghazra/github-readme-stats )
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=raaudev&layout=compact&theme=dark )](https://github.com/anuraghazra/github-readme-stats )
+
+
 
 📫 Como me Encontrar
 LinkedIn: https://www.linkedin.com/in/raau-dev/
