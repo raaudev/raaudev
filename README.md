@@ -1,7 +1,7 @@
 # Olá, eu sou o Rau Souza! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raau-dev/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-rsdeveloper-blue?style=for-the-badge&logo=vercel&logoColor=white)]
+[![Portfólio](https://img.shields.io/badge/Portfólio-rsdeveloper-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://rsdeveloper-one.vercel.app/)
 
 Sou um **Desenvolvedor Front-End** apaixonado por transformar ideias em interfaces de usuário incríveis e experiências interativas. Atualmente, estou focado em aprimorar minhas habilidades e construir projetos que causem impacto.
 
